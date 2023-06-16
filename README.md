@@ -4,7 +4,7 @@ I am a Ruby on Rails developer, recently living in Taiwan/Taipei
 I have more than 3 years experience on web development.
 
 ## Insight
-[Wells's Website](https://wells.tw)
+- [Wells's Website](https://wells.tw)
 
 ## Activity
 
